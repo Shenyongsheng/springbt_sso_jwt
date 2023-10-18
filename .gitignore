@@ -1,0 +1,4 @@
+# Project exclude paths
+/codesheep-client1/target/
+/codesheep-client2/target/
+/codesheep-server/target/
